@@ -1,7 +1,7 @@
 PGM          (&STAT &FRMDATI &NRDS &SKL &UPDATE &TYP &RDATI &RTIM)
              DCL &STAT *CHAR 1 /* Status */
              DCL &FRMDATI *CHAR 7 /* Fr. Date */
-             DCL &FRMDAT *CHAR 6 /* Fr. Date */
+             DCL        &FRMDAT *CHAR 6 /* Fr. Datef*/
              DCL &NRDS *DEC (3 0) /* Generate No */
              DCL &SKL *CHAR 6 /* Letter No. */
              DCL &UPDATE *CHAR 1 /* Update */
