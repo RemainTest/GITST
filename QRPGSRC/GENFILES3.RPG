@@ -1,5 +1,6 @@
-      *  GENFILES3
-      *  Example program to demonstrate Physical and Logical
+      *
+      *  v0.4234
+      *  Example program to demostrate Physical and Logical
       *  file generation from RPG input specifications.
       *
       *  X@LIST will generate an un-keyed Physical file
