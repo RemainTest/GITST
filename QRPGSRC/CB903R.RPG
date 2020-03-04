@@ -19,7 +19,7 @@
      C                     KFLD           RPACBR
      C                     KFLD           RPACTP
      C                     KFLD           RPACNO
-     C*  Initialization of fields
+     C*  Initialize fields
      C*
      C**                   Z-ADDWWACBL    W3ACBL  73
      C                     Z-ADDWWACBL    W2ACBL 103
