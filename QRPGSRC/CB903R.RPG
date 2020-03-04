@@ -4,7 +4,7 @@
      I                                        1   2 XXRVY1
      I                                        5   6 XXRVDD
      IXXRVD2      DS
-     I                                        5   6 XXRVDD
+     I                   s                     5   6 XXRVDD
      C           *ENTRY    PLIST
      C                     PARM           WWACBR  30       BRANCH
      C                     PARM           WWACTP  10       A/C TYPE
