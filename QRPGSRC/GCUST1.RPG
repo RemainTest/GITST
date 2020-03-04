@@ -2,6 +2,7 @@
      F*CUSFL4  IF  E           K        DISK
      FCUSTS   O   E                    DISK
      E                    PK         10 50
+     C*  Start
      C           *ENTRY    PLIST
      C                     PARM           PK
      C                     MOVELPK,1      CUSNO
