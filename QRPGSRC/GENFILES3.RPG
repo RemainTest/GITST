@@ -5,7 +5,7 @@
       *
       *  X@LIST will generate an un-keyed Physical file
       *
-      *  DEAL will generate a Logical file  DEAL
+      *  DEAL will generate a Logical file  DEAL               a
       *      and Physical files             DEALDA
       *                                     DEALDB
       *                                     DEALH
